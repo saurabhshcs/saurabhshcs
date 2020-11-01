@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I do photography and explore the world - https://cherrydeck.com/profile/saurabhshcs | https://youpic.com/photographer/mohanartsphotosmith
 
+Reach out to me via [about.me](https://about.me/saurabhshcs)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&show_icons=true)
