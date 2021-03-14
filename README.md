@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for new role in eCommerce/ Microservice (Java/Spring-Boot)
+- 🔭 I’m currently working on eCommerce/ Microservice (Java/Spring-Boot)
 - 🌱 I’m currently learning about machine learning, Python, AWS, Apache Kafka and other cloud technologies
 - 👯 I’m looking to collaborate on machine learning and recycling energy
 - 🤔 I’m looking for help to join open source community to contribute in Apache Foundation, technical content blogging, Youtub content etc
