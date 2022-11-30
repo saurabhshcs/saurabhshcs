@@ -21,12 +21,12 @@ Reach out to me via [about.me](https://about.me/saurabhshcs)
 - [Apache Kafka Developer Guide](https://www.linkedin.com/posts/saurabhshcs_saurabhshcsapache-kafka-developer-guide-activity-6768696800892243968-N2xv)
   [Github repository](https://github.com/saurabhshcs/apache-kafka-developer-guide)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&show_icons=true)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=saurabhshcs)
 
-- [x] testing
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshcs)](https://github.com/saurabhshcs/github-readme-stats)
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&show_icons=true&theme=radical)
 
 Follow me on - [Medium](https://saurabhshcs.medium.com) | [Linkedin](https://www.linkedin.com/in/saurabhshcs/) | [YouTube](https://www.youtube.com/channel/UCSQqjPw7_tfx1Ie4yYHbcxQ?pbjreload=102) | [StackOverFlow](https://stackoverflow.com/users/10719720/saurabhshcs?tab=profile)
 
