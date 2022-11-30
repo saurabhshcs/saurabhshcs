@@ -24,9 +24,9 @@ Reach out to me via [about.me](https://about.me/saurabhshcs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=saurabhshcs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshcs)](https://github.com/saurabhshcs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshcs&show_icons=true&theme=highcontrast)](https://github.com/saurabhshcs/github-readme-stats)
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&show_icons=true&theme=radical)
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&show_icons=true&theme=highcontrast)
 
 Follow me on - [Medium](https://saurabhshcs.medium.com) | [Linkedin](https://www.linkedin.com/in/saurabhshcs/) | [YouTube](https://www.youtube.com/channel/UCSQqjPw7_tfx1Ie4yYHbcxQ?pbjreload=102) | [StackOverFlow](https://stackoverflow.com/users/10719720/saurabhshcs?tab=profile)
 
