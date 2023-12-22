@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I do photography and explore the world - https://cherrydeck.com/profile/saurabhshcs | https://youpic.com/photographer/mohanartsphotosmith
 
 Reach out to me via [about.me](https://about.me/saurabhshcs)
+![Saurabhshcsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhshcs&theme=dark&show_icons=true)
 
 ## Published Articles
 - [Spring-Boot-JWT](https://www.linkedin.com/embed/feed/update/urn:li:share:6737576978368536576)
